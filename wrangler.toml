@@ -8,6 +8,9 @@ keep_vars = true
 enabled = true
 invocation_logs = true
 
-#[[kv_namespaces]]
-#binding = "KV"			#KV绑定名默认不可修改
-#id = ""				#KV数据库id
+# ...
+[[kv_namespaces]]
+binding = "KV"
+id = "17318c8cecf84c1b9ae15586de2d1be8"
+# ...
+
